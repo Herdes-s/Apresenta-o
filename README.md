@@ -28,9 +28,9 @@ Atualmente, estou focado em aprender e praticar novas tecnologias, expandindo mi
 
 ## 📖 Atualmente Estou Aprendendo
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Estou focado no aprendizado de **Python**, uma linguagem versátil que estou explorando tanto para desenvolvimento web quanto para automação e inteligência artificial.
+Estou focado no aprendizado de **JavaScript**.
 
 ---
 
